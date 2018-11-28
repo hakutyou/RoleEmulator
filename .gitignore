@@ -1,0 +1,8 @@
+/.idea/
+__pycache__/
+draft/
+*.qmlc
+*.jsc
+*.pyc
+*.qm
+/*.toml
